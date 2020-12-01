@@ -5,7 +5,7 @@
 :root {
     --primary-color: #92CD00;
     --dark-gray: #4B5563;
-    --off-white: #E5E7EB;
+    --off-white: #F3F4F6;
 }
 
 
@@ -48,6 +48,7 @@ hr {
 }
 
 .link-secondary {
+    background-color: whitesmoke;
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
@@ -88,7 +89,8 @@ hr {
 }
 
 .navigation .nav-brand {
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: x-large;
 }
 
 .navigation .nav-pills {
@@ -160,6 +162,11 @@ hr {
 
 .footer .link {
     color: white;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer .ul {
