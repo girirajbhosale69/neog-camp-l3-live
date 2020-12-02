@@ -45,7 +45,7 @@ hr {
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
-    color: white
+    color: white;
 }
 
 .link-secondary {
@@ -190,7 +190,7 @@ hr {
 .section420 .section-paragraph {
     font-size: 18;
     text-align: center;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 0.04rem;
     border-spacing: 1rem;
 }
