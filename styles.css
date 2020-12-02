@@ -206,6 +206,31 @@ hr {
     padding: 2rem;
 }
 
+.ow2 .sectionow2-para {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color: purple;
+}
+
+.w2 .sectionw2-para {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color: purple;
+}
+
+.ow3 .sectionow3-para {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color: purple;
+}
+
+.ow3 {
+    background-color: var(--off-white);
+}
+
 .ow {
     background-color: var(--off-white);
     text-align: center;
@@ -216,6 +241,12 @@ hr {
     background-color: var(--off-white);
     text-align: center;
     padding: 2rem;
+}
+
+.section69 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 
