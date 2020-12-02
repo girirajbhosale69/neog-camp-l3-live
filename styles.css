@@ -6,6 +6,7 @@
     --primary-color: #92CD00;
     --dark-gray: #4B5563;
     --off-white: #F3F4F6;
+    --dark-green: #2C6700;
 }
 
 
@@ -48,7 +49,7 @@ hr {
 }
 
 .link-secondary {
-    background-color: whitesmoke;
+    background-color: white;
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
@@ -130,12 +131,18 @@ hr {
     font-weight: bolder;
 }
 
+.hero .hero-heading .heading-inverted2 {
+    color: greenyellow;
+    font-weight: bold;
+}
+
 
 /* Section */
 
 .section {
     padding: 2rem;
     text-align: center;
+    background-color: white;
 }
 
 .section h1 {
@@ -144,6 +151,12 @@ hr {
 }
 
 .ow {
+    background-color: var(--off-white);
+    text-align: center;
+    padding: 2rem;
+}
+
+.ow2 {
     background-color: var(--off-white);
     text-align: center;
     padding: 2rem;
