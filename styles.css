@@ -324,3 +324,14 @@ a:hover i {
 .fa-envelope-o {
     columns: #e84118;
 }
+
+
+/* Footer creds */
+
+.footerend {
+    text-align: center;
+    font-size: 16px;
+    background-color: var(--primary-color);
+    font-weight: lighter;
+    color: black;
+}
