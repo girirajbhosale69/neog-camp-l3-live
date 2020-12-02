@@ -139,6 +139,13 @@ hr {
 
 /* Section */
 
+.section420 {
+    padding: 2rem;
+    text-align: center;
+    background-color: var(--primary-color);
+    opacity: 85%;
+}
+
 .section {
     padding: 2rem;
     text-align: center;
