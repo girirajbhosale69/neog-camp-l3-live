@@ -136,6 +136,40 @@ hr {
     font-weight: bold;
 }
 
+.hero .hero-heading2 .heading-inverted3 {
+    color: gold;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.hero .hero-heading2 .heading-inverted4 {
+    color: gold;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.hero-heading2 {
+    text-align: center;
+}
+
+.hero .hero-heading2 .link2 {
+    color: rgb(67, 85, 187);
+    opacity: 100%;
+    text-decoration: lightseagreen;
+    font-size: large;
+}
+
+.hero .hero-paragraph .link3 {
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 100%;
+}
+
+.hero .hero-paragraph {
+    text-align: center;
+}
+
 
 /* Section */
 
@@ -144,6 +178,21 @@ hr {
     text-align: center;
     background-color: var(--primary-color);
     opacity: 85%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-color: lawngreen;
+    border-top-color: lawngreen;
+    border-style: var(--dark-gray);
+}
+
+.section420 .section-paragraph {
+    font-size: 18;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 0.04rem;
+    border-spacing: 1rem;
 }
 
 .section {
